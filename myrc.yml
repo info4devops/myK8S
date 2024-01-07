@@ -16,4 +16,4 @@ spec:
         - name: myappcontainer
           image: maha4iac/myonlinebooking:1
           ports:
-            - containerPort: 8085
+            - containerPort: 80
